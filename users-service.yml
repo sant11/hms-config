@@ -1,3 +1,9 @@
+logging:
+  file:
+   users-service.log
+  path:
+   /var/log
+
 ﻿spring:
   profiles: default
 eureka:
