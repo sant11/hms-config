@@ -6,6 +6,7 @@ zuul:
     visits-service: /visit/**
     customers-service: /customer/**
     api-gateway: /gateway/**
+    users-service: /user/**
 
 server:
   port: 8180
